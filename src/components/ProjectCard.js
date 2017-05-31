@@ -31,6 +31,8 @@ const ProjectCardImage = styled.img.attrs({
   width: 100%;
   height: auto;
   border: none;
+  width: 226px;
+  height: 170px;
 `;
 
 const ProjectBody = styled.div`

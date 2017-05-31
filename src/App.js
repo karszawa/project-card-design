@@ -13,14 +13,14 @@ class App extends Component {
         </div>
         <div className="app-container">
           <ProjectCard
-            title={ "人生最後の挑戦！ピラミッドの謎解明のカギを握る太陽の船復元へ!" }
+            title={ "スポーツには世界と未来を帰る力がある。東京オリンピック2020" }
             projectType={ "normal" }
-            thumb={ "https://readyfor.jp/s3/readyfor-img/project_images/12194/large/5b067a704b388146d7cd69be634c3c06b7286aa5.JPG?1491513705" }
+            thumb={ "https://tokyo2020.jp/jp/assets/img/pages/news/20170525-01.jpg" }
             projectUrl={ "https://readyfor.jp/projects/solarboat" }
             goalPrice={ 20000000 }
             amount={ 20950000 }
             leftTime={ "33日" }
-            user={ { name: "吉村作治(NPO法人太陽の船復元研究所所長)", thumb: "https://readyfor.jp/s3/readyfor-img/user_images/269607/medium/4fc4b9d7c93013650208f752ec0b378f28883144.JPG?1495778978" } }
+            user={ { name: "武藤敏郎(事務総長CEO)", thumb: "https://www.mitsui.com/jp/ja/company/outline/officer/__icsFiles/afieldfile/2015/09/11/222_detail_12.jpg" } }
           />
 
           <ProjectCard
